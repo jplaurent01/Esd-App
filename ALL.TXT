@@ -1,0 +1,178 @@
+1,Acuna Flores Cristian,Hibrido,Diurno,SMT,207290407
+2,Aguilar Ramirez Axel,Preformado,Diurno,Preformado,208290525
+4,Alfaro Perez Esteban,Hibrido,Diurno,Mantenimiento,208070915
+5,Alfaro Ramirez Jose Gabriel,Hibrido,Comprimido 2,SMT,208200895
+6,Alfaro Villalobos J. Fabian,Retrabajos,Comprimido 2,Test,208100526
+7,Alvan Puertas Jose Francisco,Administracion,Diurno,Calidad,800990143
+10,Alvarez Alvarado Kattia,Miscelanea,Diurno,Limpieza,204770744
+11,Alvarez Hernandez Carlos,Administracion*,Diurno,Ingenieria,604100627
+12,Alvarez Lopez Josue,Retrabajos,Comprimido 1,Test,207940291
+14,Araya Angulo Carmen,Soldado,Comprimido 2,Wave Solder ,303470824
+16,Araya Gonzalez Bryan,Hibrido,Diurno,Wave Solder ,113760178
+17,Araya Ramos Karen ,Administracion,Diurno,Contabilidad,207280091
+18,Arguedas Morales Cesar,Administracion,Diurno,Contabilidad,208060398
+20,Arias Chaverri Isabel,Ensamble ,Diurno,3-4,207060417
+22,Arrieta Arias Katherine,Administracion,Diurno,Compras,208200166
+23,Arrieta Chinchilla Jose Manuel,Ensamble,Diurno,Test,206070683
+24,Arrieta Vega Cristian,Administracion*,Diurno,SMT,207160123
+25,Arroyo Hidalgo Axel,Ensamble,Diurno,1-2,208110790
+26,Atencio Villalobos Yailin,Hibrido,Diurno,Ingenieria,604550553
+27,Azofeifa Ramirez Katherine,Ensamble,Diurno,9-10,208110002
+28,Barahona Garay Beatriz,Administracion,Diurno,Calidad,206340392
+29,Barquero Alvarez Mariela,Wave Solder,Comprimido 1,Wave Solder,116510379
+30,Barquero Luna Marianela,Etiquetado,Diurno,Etiquetado,207580286
+31,Barrantes Rojas Evelyn,Administracion*,Diurno,Ingenieria,602920328
+32,Barrantes Rojas Randy,Wave Solder,Comprimido 1,Wave Solder,207640267
+33,Barrantes Sibaja Keylor,Hibrido,Diurno,SMT,207820587
+34,Bolanos Cubero Estefany,Inspeccion,Diurno,Calidad,207300511
+35,Bonilla Corrales John Henry,Administracion,Diurno,Logistica,207770561
+35,Porras Montoya Yoseline,Administracion,Diurno,Logistica,207640351
+36,Calvo Molina Armando,Hibrido,Comprimido 1,Mantenimiento,900760414
+37,Calvo Vasquez Jean Carlo,Materiales,Diurno,Materiales,207160074
+38,Cambronero Monge Mario,SMT,Diurno,SMT,204250185
+39,Campos Segura Annel,Administracion,Diurno,Salud Ocupacional,304400544
+39,Camacho Sanchez Cristian,Administracion,Diurno,Compras,207190436
+39,Villalobos Mejias Mariel,Administracion,Diurno,Compras,117190299
+40,Carballo Oses Ana,Etiquetado,Comprimido 2,Etiquetado,204580544
+41,Carrillo Gonzalez Marta,SMT ,Comprimido 1,SMT,205990350
+42,Cascante Fernandez Freddy,Administracion,Diurno,IT,604210824
+43,Castillo Brenes Oscar,Materiales,Diurno,Materiales,207350155
+44,Castro Segura Mariana,Ensamble,Diurno,9-10,207690202
+47,Chavarria Gazo Angie,Administracion,Diurno,Logistica,207170910
+48,Chaverri Jimenez David,Retrabajos,Comprimido 1,Test,206090792
+49,Chavez Badilla Luis Angel,Ensamble,Diurno,1-2,502640824
+50,Chavez Picado Sharon,Inspeccion,Diurno,AOI,2083300107
+50,Rodriguez Jimenez Juan Andres,Wave Solder,Comprimido 1,Wave Solder,207390243
+51,Chavez Ramirez Jorge,Hibrido,Comprimido 2,Mantenimiento,207210107
+52,Chinchilla Fonseca Cesar,Soldado,Diurno,5-6,205330957
+54,Chinchilla Vega Jennifer,EMA,Diurno,9-10,207280558
+56,Cordero Valenciano Patricia,Administracion,Diurno,Contabilidad,116160223
+57,Cordero Valenciano Yesenia,Materiales,Comprimido 2,Materiales,114760088
+59,Cordoba Sibaja Estib,Materiales,Diurno,Materiales,206680907
+61,Coronado Valenciano Joselin,Inspeccion,Comprimido 1,Calidad,207590869
+64,Esquivel Gamboa Melissa,Inspeccion,Diurno,Calidad,109740340
+65,Fernandez Alfaro Eddy,Administracion,Diurno,SMT,207470852
+66,Fernandez Baltodano Marco,Administracion,Diurno,,113730687
+66,Ramirez Morales Francisco Daniel,Administracion,Diurno,Finanzas,205360059
+67,Fernandez Berrocal Catalina,Administracion,Diurno,Compras,207190436
+68,Fuentes Rojas Johanna,Administracion*,Diurno,Ingenieria,114800549
+69,Gamboa Bejarano Susan,Inspeccion,Diurno,Calidad,208060163
+71,Gomez Carranza Rosa,SMT,Diurno,Set Up,206870613
+72,Gomez Jimenez Elio,Retrabajos,Diurno,Test,502500769
+73,Gomez Leiton Olber,Soldado,Diurno,7-8,207530571
+74,Gomez Matarrita Dagoberto,Administracion,Diurno,Entrenamientos,502100995
+75,Gomez Murillo Ariel Arturo,Administracion,Diurno,Compras,207010739
+75,Gomez Rodriguez Wendy,Ensamble,Diurno,9-10,206920446
+76,Gonzalez Aguero Karla,Ensamble,Diurno,9-10,702160162
+77,Granados Cordoba Danny,Materiales,Diurno,Produccion,206870367
+78,Granados Garita Yazmin,Test,Diurno,Test,206880571
+79,Guevara Rugama Arelis,Miscelanea,Diurno,Limpieza,701510041
+80,Guzman Mora Francisco Ruben,Administracion,Diurno,Ingenieria,504000350
+81,Hernandez Alvarado Alexa,Administracion*,Diurno,Ingenieria,604540100
+82,Hernandez Guadamuz Viviana Patricia,Administracion,Diurno,Compras,402240186
+188,Laurent Chaves Jose,Administracion*,Diurno,Calidad,116970308
+87,Leon Carballo Sugey,SMT,Comprimido 1,SMT,207260927
+88,Lobo Chavarria Steven,EMA,Diurno,1-2,205480923
+89,Lopez Diaz Cristian,Preformado,Diurno,Preformado,205790832
+92,Lopez Pina Alfonso,Preformado,Diurno,Preformado,502530205
+93,Madrigal Jimenez Byron,Ensamble,Comprimido 1,Wave Solder,208270133
+94,Madrigal Vargas Jorge,Soldado,Diurno,5-6,204900076
+95,Madrigal Wallace Carol,Administracion,Diurno,Salud Ocupacional,206850815
+95,Madrigal Solis Ronald,Materiales,Diurno,Produccion,207370054
+96,Mata Brenes Emerson,Materiales,Diurno,Produccion,115080405
+96,Mejia Martinez Marco,EMA,Diurno,7-8,116770442
+97,Mejias Camacho Michelle,Administracion,Diurno,Materiales,207130250
+98,Miranda Gonzalez Elder,Materiales,Diurno,Materiales,206020857
+99,Miranda Gonzalez Erick,Soldado,Diurno,7-8,206020856
+100,Monge Barrantes Kevin,Materiales,Diurno,Materiales,603460771
+101,Monge Torres Abigail,Administracion,Diurno,Contabilidad,207440665
+102,Montero Vargas Laura,Retrabajos,Comprimido 1,SMT,205160798
+103,Mora Nunez David,Retrabajos,Comprimido 2,Test,112030625
+105,Mora Villalobos Wendy,Administracion,Diurno,Contabilidad,603300758
+106,Mora Villalobos Yerliny,Hibrido,Diurno,Ingenieria,603930148
+107,Morales Arias Jeustin,Empaque,Diurno,9-10,208050935
+108,Morales Villalta Roberto,Administracion*,Diurno,Calidad,115310746
+109,Murillo Gonzalez Paola,Inspeccion,Diurno,Calidad,205670744
+111,Murillo Porras Magaly,Soldado,Diurno,9-10,109530214
+112,Murillo Valerio Maria Jose,Inspeccion,Diurno,Calidad,402410215
+113,Navarro Jimenez Wendy Maria,Administracion,Diurno,Compras,116190400
+114,Nunez Carranza Jonathan,Administracion,Diurno,Ingenieria,207650324
+115,Ochoa Lara Maryorith,Retrabajos,Comprimido 1,SMT,1155802127315
+117,Orellana Vindas Kendell,Hibrido,Comprimido 2,SMT,208090350
+118,Paniagua Mejias Luis Andres,Administracion*,Diurno,Wave Solder,117020074
+119,Paniagua Mejias Melissa,SMT,Comprimido 1,SMT,402050241
+120,Paniagua Vasquez Karolay,Wave Solder,Comprimido 2,Wave Solder,207590355
+121,Perez Barahona Alexander,Retrabajos,Comprimido 1,Test,204610857
+122,Perez Chinchilla Sandra,Hibrido,Diurno,Ingenieria,503400107
+123,Perez Cortez Yensi,Soldado,Diurno,1-2,206320979
+124,Prendas Rodriguez Dariana,Administracion,Diurno,Compras,402190873
+187,Rabelo Da Silva Felipe,Administracion,Diurno,Ingenieria,
+126,Ramirez Carvajal Brandon,Inspeccion,Diurno,AOI,208050038
+128,Rodriguez Araya Gina,Preformado,Diurno,Preformado,109490634
+129,Rodriguez Barrantes Stephanie,Administracion,Diurno,Logistica,114890704
+130,Rodriguez Murillo Luis Fdo,Ensamble,Diurno,3-4,207580206
+134,Rojas Duran Leyden,Inspeccion,Diurno,Calidad,205030393
+135,Rojas Montes Vanessa,Soldado,Comprimido 2,Wave Solder,155821648823
+138,Roman Gonzalez Diego,Retrabajos,Comprimido 1,Retrabajos,205480858
+139,Roman Ramirez Genesis Alejandra,Administracion,Diurno,Recursos Humanos,207740153
+140,Ruiz Obando Lisbeth,Test,Diurno,Test,115490025
+141,Salazar Arguedas Fernando,Hibrido,Diurno,Ingenieria,207160883
+142,Salazar Soto Luis,Soldado,Diurno,3-4,205940839
+143,Sanchez Alfaro Melanie,Materiales,Diurno,Materiales,208080788
+144,Sanchez Lobo Alvaro,Administracion,Diurno,IT,206360336
+145,Sanchez Sanchez Roxana,Hibrido,Diurno,9-10,107290512
+146,Sanchez Villegas Cesar,SMT,Comprimido 2,SMT,115510991
+148,Sibaja Porras Brainer,SMT,Comprimido 1,SMT,205560279
+149,Sibaja Sibaja Yeferson,SMT,Comprimido 1,SMT,207550659
+152,Solis Lara Melissa,Administracion,Diurno,Ingenieria,402350481
+153,Solorzano Alvarado Daniel,Wave Solder,Comprimido 1,Wave Solder,206810481
+153,Sandoval Madriz Bayron Esleider,Wave Solder,Comprimido 2,Wave Solder,208060739
+154,Soto Arce Jose Francisco,Materiales,Diurno,Materiales,207910126
+155,Soto Barquero Angie,Wave Solder,Comprimido 1,Wave Solder,207180893
+158,Sziklas Vasquez Mauricio,Ensamble,Diurno,9-10,208200201
+158,Alcazar Cordero Kevin Andrey,Ensamble,Diurno,9-10,208150146
+159,Torres Cortes Jocsuan,Materiales,Diurno,Materiales,208000081
+160,Torres Robles Maria Luisa,Wave Solder,Comprimido 2,Wave Solder,206210644
+161,Trujillo Gonzalez Nicolas,Soldado,Diurno,9-10,205630922
+162,Ugalde Rojas Tania,Inspeccion,Diurno,Calidad,207960082
+162,Berr Rodriguez Andrea,Inspeccion,Diurno,Calidad,118600348
+163,Urbina Mejia Camilo,Hibrido,Comprimido 2,Mantenimiento,155808761830
+84,Urena Ferrero Benjamin,Administracion,Diurno,Mantenimiento,110420320
+164,Valverde Rodriguez Humberto,SMT,Comprimido 2,SMT,112670145
+165,Varela Rivera Marlen,Ensamble,Comprimido 2,9-10,204940181
+167,Vargas Arguedas Andrey,Preformado,Diurno,Preformado,207190660
+168,Vargas Arias Marvin,Administracion,Diurno,Recursos Humanos,106930945
+169,Vargas Cerdas Gabriela,Administracion,Diurno,Contabilidad,503750063
+170,Vargas Segura Evelyn,Miscelanea,Diurno,Limpieza,205890369
+171,Vargas Segura Yerlin,Inspeccion,Comprimido 1,AOI,206460994
+172,Vasquez Alvarado Guiselle,Hibrido,Diurno,1-2,205210621
+173,Vega Amador Maria Fernanda,SMT,Comprimido 2,SMT,207540790
+174,Vega Hernandez Javier,Retrabajos,Comprimido 2,Test,901140536
+175,Vega Sibaja Ever,SMT,Comprimido 1,SMT,207330132
+176,Venegas Alpizar Eduardo,Hibrido,Comprimido 2,Ingenieria,112810725
+189,Vilchez Alfaro Indira,Administracion,Diurno,Compras,114740990
+178,Villalobos Alvarado Carlos,Wave Solder,Comprimido 2,Wave Solder,205350601
+179,Villalobos Alvarado Randall,Materiales,Diurno,Materiales,205830371
+180,Villalobos Madrigal Haydee,Ensamble,Diurno,1-2,111840737
+180,Venegas Chinchilla Andrey,Ensamble,Diurno,5-6,204430204
+181,Villalobos Sanchez Maritza,Miscelanea,Diurno,Limpieza,502320845
+184,Zambrano Ugalde Gustavo,Administracion*,Diurno,Calidad,110680525
+185,Zuniga Santana Emel,Limpieza,Diurno,Limpieza,501910593
+186,Zuniga Villalobos Astrid,Administracion,Diurno,Logistica,604460031
+162,Cabezas Valverde Maikol Alonso,Inspeccion,Diurno,Calidad,208240875
+52,Sibaja Perez Yaina,Soldado,Diurno,5-6,504450249
+52,Valverde Berrocal Maria Angeles,Soldado,Diurno,5-6,206450294
+70,Chaves Alfaro Paula Veronica,Wave Solder,Comprimido 1,Wave Solder,206710937
+#,Campos Bolanos Nicol Pamela,SMT,Diurno,SMT,208470480
+#,Ramirez Herrera Douglas Javier,SMT,Diurno,SMT,208070858
+#,Hernandez Lopez Jonathan Josue,SMT,Diurno,SMT,208470196
+#,Rivas Peralta Lutgarda Giselle,Soldado,Diurno,9-10,155820188
+#,Vargas Arroyo Angel Esteban,Soldado,Diurno,9-10,117410739
+#,Castro Solano Roxana,Soldado,Diurno,9-10,205270405
+#,Bejarano Carrion Jeudy Esteban,Materiales,Diurno,Materiales,208500491
+#,Barrantes Conejo Sandra Lorena,Ensamble,Diurno,9-10,205000138
+#,Montenegro Mejia Cinthia Karina,Ensamble,Diurno,9-10,155825013
+#,Mendez Alvarez Fabian Andre,Empaque,Diurno,9-10,118320661
+#,Hernandez Rodriguez William Yoel,SMT,Diurno,Set Up,207770157
+#,Brenes Hernandez Michell Dayana,SMT,Diurno,Set Up,117060753
+#,Brenes Ramirez Roxana,Test,Diurno,Test,304470989
